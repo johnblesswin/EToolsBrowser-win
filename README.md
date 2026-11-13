@@ -1,29 +1,21 @@
 # ETools Browser Suite (Windows)
 
-Official Windows distribution packages, patches, and version manifests for the **ETools Browser Suite** — engineered for SRM Institute of Science and Technology (SRMIST).
+Official Windows distribution packages and patches for the **ETools Browser Suite** — engineered for SRM Institute of Science and Technology (SRMIST).
 
 ---
 
 ## 📦 Distribution Packages (v1.0.4 "Mars")
 
-| Application | Mode | Installer (`download_url`) | Delta Patch (`patch_url`) | Description |
+| Application | Mode | Installer | Delta Patch Package | Description |
 | :--- | :--- | :--- | :--- | :--- |
 | **EEB** | **Exam Mode** | [`EEB_Setup.exe`](EEB_Setup.exe) (~186 MB) | [`EEB_patch.zip`](EEB_patch.zip) (~7.1 MB) | High-stakes locked-down examination browser with active process containment, VM detection, and clipboard protection. |
 | **EPB** | **Practice Mode** | [`EPB_Setup.exe`](EPB_Setup.exe) (~186 MB) | [`EPB_patch.zip`](EPB_patch.zip) (~7.0 MB) | Academic practice and laboratory evaluation browser with educational whitelisting and self-healing shell. |
 
 ---
 
-## 🔄 Automatic Update Manifest
-
-The browser automatically checks for updates using [`version.json`](version.json):
-* **Manifest URL:** `https://dld.srmist.edu.in/apps/ebrowsers/win/version.json`
-* Existing installations receive lightweight in-place micro-patches (~7 MB) without requiring full re-installation.
-
----
-
 ## 🚀 Installation
 
-### Interactive GUI Installation
+### Interactive Installation
 Run `EEB_Setup.exe` or `EPB_Setup.exe` and click **Install**. The setup installs securely and creates desktop and Start Menu shortcuts automatically.
 
 ### Silent / Enterprise Lab Deployment

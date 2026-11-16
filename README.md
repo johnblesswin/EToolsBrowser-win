@@ -8,8 +8,8 @@ Official Windows distribution packages and patches for the **ETools Browser Suit
 
 | Application | Mode | Installer | Delta Patch Package | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| **EEB** | **Exam Mode** | [`EEB_Setup.exe`](EEB_Setup.exe) (~186 MB) | [`EEB_patch.zip`](EEB_patch.zip) (~7.1 MB) | High-stakes locked-down examination browser with active process containment, VM detection, and clipboard protection. |
-| **EPB** | **Practice Mode** | [`EPB_Setup.exe`](EPB_Setup.exe) (~186 MB) | [`EPB_patch.zip`](EPB_patch.zip) (~7.0 MB) | Academic practice and laboratory evaluation browser with educational whitelisting and self-healing shell. |
+| **EEB** | **Exam Mode** | [`EEB_Setup.exe`](EEB_Setup.exe) (~182 MB) | [`EEB_patch.zip`](EEB_patch.zip) (~2.9 MB) | High-stakes locked-down examination browser with active process containment, VM detection, and clipboard protection. |
+| **EPB** | **Practice Mode** | [`EPB_Setup.exe`](EPB_Setup.exe) (~182 MB) | [`EPB_patch.zip`](EPB_patch.zip) (~2.8 MB) | Academic practice and laboratory evaluation browser with educational whitelisting and self-healing shell. |
 
 ---
 

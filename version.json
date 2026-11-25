@@ -9,7 +9,7 @@
     "mandatory": false,
     "title": "ETools Practice Browser (EPB)",
     "file_size": 195223552,
-    "patch_size": 7519294
+    "patch_size": 7519282
   },
   "eeb": {
     "version": "1.0.4",
@@ -21,6 +21,6 @@
     "mandatory": true,
     "title": "ETools Exam Browser (EEB)",
     "file_size": 195345408,
-    "patch_size": 7633382
+    "patch_size": 7633406
   }
 }

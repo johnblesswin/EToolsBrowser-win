@@ -8,8 +8,8 @@
     "release_notes": "Upgraded to v1.0.4 (Mars Hardened)\nEnforced Virtual Machine denial policy (EEB)\nInjected keystroke denial (blocks synthetic auto-typers & macros)\nOverlay & topmost window auto-termination (anti-OCR bots)\nHardened process identity & WMI fallback anti-spoofing\nExpanded blacklist to 477 (EEB) / 381 (EPB) apps with LOLBins, AI cheats, PowerToys modules, sandboxes & stealth tunnels",
     "mandatory": false,
     "title": "ETools Practice Browser (EPB)",
-    "file_size": 195700224,
-    "patch_size": 7984731
+    "file_size": 195701248,
+    "patch_size": 7985795
   },
   "eeb": {
     "version": "1.0.4",
@@ -20,7 +20,7 @@
     "release_notes": "Upgraded to v1.0.4 (Mars Hardened)\nEnforced Virtual Machine denial policy (EEB)\nInjected keystroke denial (blocks synthetic auto-typers & macros)\nOverlay & topmost window auto-termination (anti-OCR bots)\nHardened process identity & WMI fallback anti-spoofing\nExpanded blacklist to 477 (EEB) / 381 (EPB) apps with LOLBins, AI cheats, PowerToys modules, sandboxes & stealth tunnels",
     "mandatory": true,
     "title": "ETools Exam Browser (EEB)",
-    "file_size": 195821568,
-    "patch_size": 8098627
+    "file_size": 195822592,
+    "patch_size": 8099572
   }
 }
